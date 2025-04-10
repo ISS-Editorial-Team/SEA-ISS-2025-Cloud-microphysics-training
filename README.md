@@ -1,6 +1,6 @@
 <img src="assets/2024_SEA_Logo2.png" width="40%" align="center">
 
-# Cloud microphysics training 📓
+# Cloud microphysics training and aerosol inference with the Fiats deep learning library📓
 
 [![JupyterBook](https://github.com/UCAR-SEA/SEA-ISS-Template/actions/workflows/deploy.yml/badge.svg)](https://github.com/UCAR-SEA/SEA-ISS-Template/actions/workflows/deploy.yml)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-green?style=flat-square&logo=Jupyter&color=green)](https://jupyter.org/try)
