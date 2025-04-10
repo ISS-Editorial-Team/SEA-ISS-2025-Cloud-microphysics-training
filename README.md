@@ -1,4 +1,4 @@
-<img src="assets/2024_SEA_Logo2.png" width="40%" align="center">
+<img src="assets/2024_SEA_Logo2.png" width="40%" align="center"> 
 
 # Cloud microphysics training and aerosol inference with the Fiats deep learning library📓
 
