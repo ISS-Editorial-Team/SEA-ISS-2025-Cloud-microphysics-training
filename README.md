@@ -12,8 +12,4 @@
 
 **Acknowledgements**: This material was based upon work supported by the U.S. Department of Energy, Office of Science, Office of Advanced Scientific Computing Research CASS (S4PST) and SciDAC (NUCLEI) programs under Contract No. DE-AC02-05CH11231.
 
----
-
-*Note: Replace the placeholders above with the specific details of your paper.*
-  
 
