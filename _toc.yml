@@ -6,9 +6,6 @@ parts:
     chapters:
       - file: submission-guidelines.md
       - file: how-to-cite-this-paper.md
-  - caption: Paper
-    chapters:
-      - file: notebooks/paper-notebook.ipynb
   - caption: Example Paper 2
     chapters:
       - file: notebooks/example_2/notebook-example2_part1.md
