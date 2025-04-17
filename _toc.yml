@@ -2,10 +2,6 @@ format: jb-book
 root: README
 
 parts:
-  - caption: Premable
-    chapters:
-      - file: submission-guidelines.md
-      - file: how-to-cite-this-paper.md
   - caption: Paper
     chapters:
       - file: notebooks/paper-notebook.ipynb
