@@ -9,11 +9,11 @@ parts:
   - caption: Paper
     chapters:
       - file: notebooks/paper-notebook.ipynb
-  - caption: Example Paper 2
+  - caption: Paper (in sections)
     chapters:
-      - file: notebooks/example_2/notebook-example2_part1.md
-      - file: notebooks/example_2/notebook-example2_part2.ipynb
-      - file: notebooks/example_2/notebook-example2_part3.md
-      - file: notebooks/example_2/notebook-example2_references.md
+      - file: notebooks/paper-in-sections/part1-introduction.md
+      - file: notebooks/paper-in-sections/part2-methods.ipynb
+      - file: notebooks/paper-in-sections/part3-conclusion.md
+      - file: notebooks/paper-in-sections/part4-references.md
 
 
