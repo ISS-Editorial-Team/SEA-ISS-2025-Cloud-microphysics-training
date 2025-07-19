@@ -106,7 +106,7 @@ where <> indicates user input and [] indicates an optional argument.
 ```
 where the first three optional arguments specify a strategy for iterating across the batch: Fortran's loop-parallel `do concurrent` construct, OpenMP multithreading, or an `elemental` procedure that operates on whole `tensor_t` arrays or array slices in one `infer` invocation.  If none of the first three optional arguments exists on the command line, then all three execute.  The fourth optional argument decides whether to additionally perform inference using double precision. The final optional argument determines the number of times each strategy will execute.  See {cite}`rouson2025automatically` for a discussion of the performance of each of these approaches.
 
-Before running `concurrent-inferences`, download the pretrained aerosol model file [model.json](./assets/model.json) and save it to the root directory of your Fiats clone. 
+Before running `concurrent-inferences`, download the pretrained aerosol model file [model.json](https://github.com/ucar-sea/SEA-ISS-2025-Cloud-microphysics-training/blob/main/assets/model.json) and save it to the root directory of your Fiats clone. 
 To import the pretrained model and run the program, enter the following command:
 ```bash
   fpm run \
