@@ -75,6 +75,7 @@ sphinx:
       repository_url: https://github.com/UCAR-SEA/SEA-ISS-2025-Cloud-microphysics-training # Online location of your book
       repository_branch: main  
       navbar_align: right
+      search_bar_text: Search
       use_issues_button: true
       use_repository_button: true
       use_edit_page_button: true
