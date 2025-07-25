@@ -2,12 +2,8 @@ format: jb-book
 root: README
 
 parts:
-  - caption: Contents
+  - caption: Paper
     chapters:
-      - file: notebooks/introduction.md
-      - file: notebooks/methods.md
-      - file: notebooks/discussion.md
-      - file: notebooks/conclusions.md
-      - file: notebooks/references.md
+      - file: notebooks/paper-notebook.ipynb
 
 
