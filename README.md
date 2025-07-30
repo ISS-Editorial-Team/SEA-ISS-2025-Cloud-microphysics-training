@@ -4,7 +4,7 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-green?style=flat-square&logo=Jupyter&color=green)](https://jupyter.org/try)
 ![Static Badge](https://img.shields.io/badge/DOI-10.XXXXX%2Fnnnnn-blue)
 
-**Authors:** [Damian Rouson](mailto:rouson@lbl.gov), [Zhe Bai](mailto:@zhebai@lbl.gov), [Dan Bonachea](mailto:dobonachea@lbl.gov), [Baboucarr Dibba](mailto:bdibba@lbl.gov), [Ethan Gutmann](mailto:gutmann@ucar.edu), [Katherine Rasmussen](mailto:krasmussen@lbl.gov), [David Torres](mailto:davytorres@lbl.gov), [Jordan Welsman](mailto:welsman@lbl.gov), [Yunhao Zhang](mailto:yunhao2783@gmail.com)
+**Authors:** [Damian Rouson](https://orcid.org/0000-0002-2344-868X), [Zhe Bai](https://orcid.org/0000-0002-3092-0903), [Dan Bonachea](https://orcid.org/0000-0002-0724-9349), [Baboucarr Dibba](https://orcid.org/0009-0008-0479-3948), [Ethan Gutmann](https://orcid.org/0000-0003-4077-3430), [Katherine Rasmussen](https://orcid.org/0000-0001-7974-1853), [David Torres](https://orcid.org/0000-0003-2469-5284), [Jordan Welsman](https://orcid.org/0000-0002-2882-594X), [ Yunhao Zhang](https://orcid.org/0009-0009-3182-9296)
 
 **Keywords:** deep learning, Fortran, cloud microphysics, aerosols, high-performance computing, neural network, surrogate model
 
